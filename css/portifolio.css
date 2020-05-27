@@ -250,3 +250,12 @@ body{
 .ch-grid{
 	padding-bottom: 30px;
 }
+
+nav{
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 20px;
+}
+
+nav a:hover{
+	background-color: rgb(0, 70, 131);
+}
