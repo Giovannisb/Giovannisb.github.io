@@ -1,0 +1,82 @@
+html,
+body,
+header,
+#intro{
+    height: 100%;
+}
+
+body{
+    background: url("../imagens/technology.jpg")no-repeat center center fixed;
+}
+
+.container{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#intro{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#perfil{
+    margin-left: 460px;
+    margin-bottom: 30px;
+    border-style: solid;
+    background-color: silver;
+    border-radius: 0px;
+    box-shadow: 15px 15px 25px rgba(0, 0, 0, 1);
+}
+
+#titulo{
+    margin-top: 150px;
+    color: silver;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#exp, #formacao{
+    margin: auto;
+}
+
+#formacao{
+    margin-top: 0px;
+}
+
+#sobre_mim{
+    background-color:rgba(31, 33, 64, 0.97) ;
+    color: silver;
+}
+
+#conhecimentos{
+    background-color: rgba(69, 79, 140, 0.97);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#projetos{
+    background-color:rgba(117, 142, 191, 0.97);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#contato{
+    background-color:rgba(140, 119, 100, 0.97);
+}
+
+.footer{
+    background-color: #898090;
+    margin-bottom: 0px;
+}
+
+#hr-project{
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, transparent, #CCC, transparent);
+}
+
+#end{
+    margin-left: 245px;
+    font-size: 20px;
+}
