@@ -91,7 +91,8 @@ body{
 
 .footer{
     background-color: #898090;
-    margin-bottom: 0px;
+	margin-bottom: 0px;
+	color: #000;
 }
 
 #hr-project{
