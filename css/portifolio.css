@@ -29,6 +29,9 @@ body{
     border-radius: 0px;
     box-shadow: 15px 15px 25px rgba(0, 0, 0, 1);
 }
+#titulo, #sobre_mim, #conhecimentos, #projetos, #contato{
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 #titulo{
     margin-top: 150px;
@@ -76,7 +79,8 @@ body{
 #projetos{
     background-color:rgba(117, 142, 191, 0.97);
     padding-left: 10px;
-    padding-right: 10px;
+	padding-right: 10px;
+	font-size: 20px;
 }
 
 #contato{
@@ -161,7 +165,7 @@ body{
 }
 
 .ch-img-2 { 
-	background-image: url(../imagens/frameworks.png);
+	background-image: url(../imagens/Frameworks.png);
 }
 
 .ch-img-3 { 
@@ -241,4 +245,8 @@ body{
 	-ms-transform: rotate3d(1,0,0,0deg);
 	transform: rotate3d(1,0,0,0deg);
 	opacity: 1;
+}
+
+.ch-grid{
+	padding-bottom: 30px;
 }
