@@ -81,10 +81,12 @@ body{
     padding-left: 10px;
 	padding-right: 10px;
 	font-size: 20px;
+	color: #000;
 }
 
 #contato{
-    background-color:rgba(140, 119, 100, 0.97);
+	color: #000;
+	background-color:rgba(140, 119, 100, 0.97);
 }
 
 .footer{
@@ -99,7 +101,7 @@ body{
 }
 
 #end{
-    margin-left: 245px;
+    color: #000;
     font-size: 20px;
 }
 
